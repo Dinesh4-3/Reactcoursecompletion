@@ -1,0 +1,10 @@
+.Student{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius:10px;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+}
