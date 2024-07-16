@@ -3,6 +3,8 @@ import Student from './Student.jsx'
 import Fruits from './Fruits.jsx'
 import Button from './Button.jsx'
 import State from './State.jsx'
+import Newcomponent from './Newcomponent.jsx'
+import Colorpicker from './Colorpicker.jsx'
 
 function App() {
   const fruits = [{name:'apple',keys:1}, {name:'banana',keys:2},
@@ -20,6 +22,9 @@ function App() {
       <Fruits items = {Vegetables} category="vegetables"></Fruits>
       <State></State>
       <Button></Button>
+      <Newcomponent></Newcomponent>
+      <Colorpicker></Colorpicker>
+
 
 
 
